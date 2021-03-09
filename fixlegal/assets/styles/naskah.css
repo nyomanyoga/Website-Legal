@@ -1,0 +1,22 @@
+.naskah h3{
+    text-align: center;
+}
+
+.naskah{
+    margin:50px auto;
+}
+
+/* kotak */
+.naskah .card{
+    border-radius: 10px;
+    margin: 15px auto;
+}
+
+.naskah #isi:hover{
+    box-shadow: 0 2px 10px;
+    transform: scale(1.05);
+}
+
+.naskah img{
+    border-radius: 10px;
+}

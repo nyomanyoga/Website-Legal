@@ -1,0 +1,26 @@
+h6{
+    font-weight: 400;
+    text-transform: Capitalize;
+    color: white;
+    font-weight: 500;
+}
+
+.kegiatan{
+    margin:25px 5px;
+    border-radius: 10px;
+}
+
+.kegiatan:hover{
+    transform: scale(1.05);
+    box-shadow: 0 2px 10px;
+}
+
+/* .kegiatan_title{
+    text-transform: Capitalize;
+} */
+
+.foot{
+    background-color: #d6212a;
+    border-radius: 10px !important;
+    
+}
